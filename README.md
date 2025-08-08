@@ -8,6 +8,8 @@
 Problem-1: Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class.
   Calculator inputs :> ‘a’, ‘b’ and ‘type of operation’
   Datatype :> ‘a’ = double, ‘b’ = double, ‘type of operation’ = string
+    
+    //  A simple calculator program that performs Addition, Subtraction, Multiplication, and Division using a class-based structure. The program takes two numbers and an operator as input from the user and displays the result.
  
  
 Problem-2: With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
