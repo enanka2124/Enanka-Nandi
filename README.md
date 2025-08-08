@@ -1,4 +1,4 @@
-# Stage 1: First Screening Test – Programming Test (Screening Test for Full Stack Developer Position at TANDEMLOOP TECHNOLOGIES PRIVATE LIMITED)
+# Stage 1: First Screening Test – Programming Test (TANDEMLOOP TECHNOLOGIES PRIVATE LIMITED)
 
 **Candidate Name:** Enanka Nandi  
 **Programming Language Used:** Java  
